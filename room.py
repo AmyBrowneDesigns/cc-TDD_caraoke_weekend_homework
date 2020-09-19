@@ -12,5 +12,7 @@ class Room:
     def check_song_list(self):
         return len(self.song)
     
-    
+    def add_guest_to_room(self, guest, room_name):
+        self.guest.append(guest1, room1)
+
 
